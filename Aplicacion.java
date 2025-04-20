@@ -1,7 +1,7 @@
 import clases.Algoritmos;
 
-public class Aplicacion{
-    public static void main(String[]args){
+public class Aplicacion {
+    public static void main(String[] args) {
 
         System.out.println("10 es par? " + Algoritmos.esPar(10));
         System.out.println("2 es par? " + Algoritmos.esPar(2));
